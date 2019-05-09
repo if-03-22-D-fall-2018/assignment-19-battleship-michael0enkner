@@ -49,6 +49,7 @@ CellContent get_shot(int row, int col);
 */
 bool shoot(int row, int col);
 
+void Checkboarder(int row,int col);
 /**
 *** @param row The row where we want to get our own guess.
 *** @param col The column where we want to get our own guess.
